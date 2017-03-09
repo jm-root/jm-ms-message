@@ -1,0 +1,28 @@
+{
+  "name": "jm-ms-message",
+  "version": "0.0.1",
+  "description": "message plugin for jm-ms-core project",
+  "main": "./lib/index",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jm-root/jm-ms-message.git"
+  },
+  "keywords": [
+    "javascript",
+    "jm-ms-message"
+  ],
+  "author": {
+    "name": "Jeff YU"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jm-root/jm-ms-message/issues"
+  },
+  "homepage": "https://github.com/jm-root/jm-ms-message",
+  "dependencies": {
+    "jm-ms-core": "*"
+  }
+}
